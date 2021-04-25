@@ -83,7 +83,7 @@ client.on("ready", () => {
       }, 6000000);
 })
 
-client.login("ODMxOTI2MjIzOTA2NDA2NDAy.YIRwFA.aNaHCISmplZMh3jWCFSAn_nDiws") // user tokeniniz
+client.login("..................") // user tokeniniz
 
 app.get("/foo", (req, res, next) => {
     const foo = JSON.parse(req.body.jsonString)
